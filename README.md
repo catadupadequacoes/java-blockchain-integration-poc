@@ -25,3 +25,4 @@ Standard: OpenZeppelin ERC-1155
 
 Company URL: https://www.catadupadequacoes.pt
 Project URL: https://www.catadupadequacoes.pt/solutions/demo/nft1155/
+Linkedin: https://www.linkedin.com/in/gabrielbittencourt/
