@@ -1,45 +1,5 @@
-Catadupa de Equações - NFT Collection - Smart Contracts
-This repository contains the On-Chain logic for the project, a robust Proof of Concept (PoC) designed to demonstrate seamless integration between Java Enterprise systems and Blockchain technology.
-
-🏛️ System Architecture
-The project follows a Hybrid Architecture to ensure security, scalability, and business process compliance:
-
-On-Chain Layer (This Repository):
-
-Developed in Solidity.
-
-Implements the ERC-1155 standard on the Polygon network for cost-efficiency.
-
-Manages immutability, ownership, and asset transfers (NFTs/RWAs).
-
-
-Off-Chain Layer (Middleware):
-
-Java Enterprise backend acting as the central orchestrator.
-
-Handles business logic, scheduling, and secure Blockchain communication via Web3j.
-
-
-🚀 Key Features
-
-Dynamic Minting: Support for creating new editions (Monthly Drops) without requiring contract redeployments.
-
-Gas Efficiency: Optimized for low-cost transactions on the Polygon network.
-
-Role-Based Access Control (RBAC): Only the authorized Java Orchestrator address has permission to trigger minting, ensuring centralized control over issuance.
-
-
-🛠️ Tech Stack
-
+Catadupa de Equações - NFT CollectionSmart Contracts & Blockchain IntegrationThis repository contains the On-Chain logic for the project, a robust Proof of Concept (PoC) designed to demonstrate seamless integration between Java Enterprise systems and Blockchain technology.🏛️ System ArchitectureThe project utilizes a Hybrid Architecture to ensure security, scalability, and strict business process compliance.LayerResponsibilityTechnologyOn-ChainImmutability, ownership, and asset transfers (NFTs/RWAs).Solidity, ERC-1155Off-ChainBusiness logic, scheduling, and orchestration.Java Enterprise, Web3jThe WorkflowOn-Chain Layer: Developed in Solidity using the ERC-1155 standard on the Polygon network for maximum cost-efficiency.Off-Chain Layer: A Java Enterprise backend acts as the central orchestrator, managing secure communication with the blockchain via the Web3j library.🚀 Key FeaturesDynamic Minting: Support for creating new editions (Monthly Drops) without the need for contract redeployments.Gas Efficiency: Optimized specifically for low-cost transactions on the Polygon Proof-of-Stake (PoS) network.Role-Based Access Control (RBAC): Only the authorized Java Orchestrator address has permission to trigger minting, ensuring centralized control over asset issuance.🛠️ Tech StackSolidity// Core Specifications
 Language: Solidity ^0.8.20
-
 Network: Polygon
-
 Standard: OpenZeppelin ERC-1155
-
-
-Company URL: https://www.catadupadequacoes.pt
-
-Project URL: https://www.catadupadequacoes.pt/solutions/demo/nft1155/
-
-Linkedin: https://www.linkedin.com/in/gabrielbittencourt/
+Frameworks: OpenZeppelin ContractsIntegration: Web3j (Java-to-Blockchain)Network: Polygon Mainnet/Mumbai🔗 Connect With UsCompany Website: catadupadequacoes.ptLive Demo: Project Solution PageDeveloper: Gabriel Bittencourt on LinkedIn
