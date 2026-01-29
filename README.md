@@ -5,24 +5,41 @@ This repository contains the On-Chain logic for the project, a robust Proof of C
 The project follows a Hybrid Architecture to ensure security, scalability, and business process compliance:
 
 On-Chain Layer (This Repository):
+
 Developed in Solidity.
+
 Implements the ERC-1155 standard on the Polygon network for cost-efficiency.
+
 Manages immutability, ownership, and asset transfers (NFTs/RWAs).
 
+
 Off-Chain Layer (Middleware):
+
 Java Enterprise backend acting as the central orchestrator.
+
 Handles business logic, scheduling, and secure Blockchain communication via Web3j.
 
+
 🚀 Key Features
+
 Dynamic Minting: Support for creating new editions (Monthly Drops) without requiring contract redeployments.
+
 Gas Efficiency: Optimized for low-cost transactions on the Polygon network.
+
 Role-Based Access Control (RBAC): Only the authorized Java Orchestrator address has permission to trigger minting, ensuring centralized control over issuance.
 
+
 🛠️ Tech Stack
+
 Language: Solidity ^0.8.20
+
 Network: Polygon
+
 Standard: OpenZeppelin ERC-1155
 
+
 Company URL: https://www.catadupadequacoes.pt
+
 Project URL: https://www.catadupadequacoes.pt/solutions/demo/nft1155/
+
 Linkedin: https://www.linkedin.com/in/gabrielbittencourt/
