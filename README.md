@@ -34,6 +34,6 @@ The project follows a **Hybrid Architecture** to bridge the gap between traditio
 ---
 
 ## 🌐 Connect & Resources
-* **Official Website:** catadupadequacoes.pt
-* **Live Demo:** NFT 1155 Solution
-* **Linkedin:** Gabriel Bittencourt
+* **Official Website:** https://www.catadupadequacoes.pt
+* **Live Demo:** https://www.catadupadequacoes.pt/solutions/demo/nft1155/
+* **Linkedin:** [Gabriel Bittencourt](https://www.linkedin.com/in/gabrielbittencourt/)
