@@ -1,5 +1,5 @@
 Catadupa de Equações - NFT Collection - Smart Contracts
-This repository contains the On-Chain logic for the "Catadupa de Equações - NFT Collection" project, a robust Proof of Concept (PoC) designed to demonstrate seamless integration between Java Enterprise systems and Blockchain technology.
+This repository contains the On-Chain logic for the project, a robust Proof of Concept (PoC) designed to demonstrate seamless integration between Java Enterprise systems and Blockchain technology.
 
 🏛️ System Architecture
 The project follows a Hybrid Architecture to ensure security, scalability, and business process compliance:
