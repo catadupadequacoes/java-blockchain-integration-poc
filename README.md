@@ -1,5 +1,39 @@
-Catadupa de Equações - NFT CollectionSmart Contracts & Blockchain IntegrationThis repository contains the On-Chain logic for the project, a robust Proof of Concept (PoC) designed to demonstrate seamless integration between Java Enterprise systems and Blockchain technology.🏛️ System ArchitectureThe project utilizes a Hybrid Architecture to ensure security, scalability, and strict business process compliance.LayerResponsibilityTechnologyOn-ChainImmutability, ownership, and asset transfers (NFTs/RWAs).Solidity, ERC-1155Off-ChainBusiness logic, scheduling, and orchestration.Java Enterprise, Web3jThe WorkflowOn-Chain Layer: Developed in Solidity using the ERC-1155 standard on the Polygon network for maximum cost-efficiency.Off-Chain Layer: A Java Enterprise backend acts as the central orchestrator, managing secure communication with the blockchain via the Web3j library.🚀 Key FeaturesDynamic Minting: Support for creating new editions (Monthly Drops) without the need for contract redeployments.Gas Efficiency: Optimized specifically for low-cost transactions on the Polygon Proof-of-Stake (PoS) network.Role-Based Access Control (RBAC): Only the authorized Java Orchestrator address has permission to trigger minting, ensuring centralized control over asset issuance.🛠️ Tech StackSolidity// Core Specifications
-Language: Solidity ^0.8.20
-Network: Polygon
-Standard: OpenZeppelin ERC-1155
-Frameworks: OpenZeppelin ContractsIntegration: Web3j (Java-to-Blockchain)Network: Polygon Mainnet/Mumbai🔗 Connect With UsCompany Website: catadupadequacoes.ptLive Demo: Project Solution PageDeveloper: Gabriel Bittencourt on LinkedIn
+# Catadupa de Equações - NFT Collection
+### 🔗 Smart Contracts & Enterprise Integration
+
+This repository contains the **On-Chain logic** for the project—a robust Proof of Concept (PoC) designed to demonstrate seamless integration between **Java Enterprise (Jakarta EE)** systems and **Blockchain technology**.
+
+---
+
+## 🏛️ System Architecture
+
+The project follows a **Hybrid Architecture** to bridge the gap between traditional enterprise logic and decentralized immutability.
+
+| Layer | Component | Technology | Description |
+| :--- | :--- | :--- | :--- |
+| **On-Chain** | Smart Contracts | **Solidity** | Manages immutability, ownership, and asset transfers (NFTs/RWAs) via ERC-1155. |
+| **Off-Chain** | Middleware | **Java Enterprise** | Acts as the central orchestrator for business logic and secure communication via **Web3j**. |
+
+---
+
+## 🚀 Key Features
+
+* **Dynamic Minting:** Support for creating new editions (Monthly Drops) without requiring contract redeployments.
+* **Gas Efficiency:** Optimized specifically for EVM high-frequency, low-cost transactions on the **Polygon** network.
+* **Role-Based Access Control (RBAC):** Only the authorized Java Orchestrator address has permission to trigger minting, ensuring secure, centralized control over issuance.
+
+---
+
+## 🛠️ Tech Stack
+
+* **Language:** `Solidity ^0.8.20`
+* **Network:** Polygon (PoS)
+* **Standard:** OpenZeppelin ERC-1155
+* **Integration:** Web3j (Java Blockchain Tooling)
+
+---
+
+## 🌐 Connect & Resources
+* **Official Website:** catadupadequacoes.pt
+* **Live Demo:** NFT 1155 Solution
+* **Linkedin:** Gabriel Bittencourt
