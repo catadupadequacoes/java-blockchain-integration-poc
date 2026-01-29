@@ -22,3 +22,6 @@ Role-Based Access Control (RBAC): Only the authorized Java Orchestrator address 
 Language: Solidity ^0.8.20
 Network: Polygon
 Standard: OpenZeppelin ERC-1155
+
+Company URL: https://www.catadupadequacoes.pt
+Project URL: https://www.catadupadequacoes.pt/solutions/demo/nft1155/
