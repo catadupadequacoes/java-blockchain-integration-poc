@@ -18,7 +18,7 @@ The project follows a **Hybrid Architecture** to bridge the gap between traditio
 
 ## 🚀 Key Features
 
-* **Dynamic Minting:** Support for creating new editions (Monthly Drops) without requiring contract redeployments.
+* **Dynamic Minting:** Support for creating new editions (Quarterly Drops) without requiring contract redeployments.
 * **Gas Efficiency:** Optimized specifically for EVM high-frequency, low-cost transactions on the **Polygon** network.
 * **Role-Based Access Control (RBAC):** Only the authorized Java Orchestrator address has permission to trigger minting, ensuring secure, centralized control over issuance.
 
